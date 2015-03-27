@@ -1,0 +1,8 @@
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\bin\Debug\Net.Kniaz.AHP.dll
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\bin\Debug\Net.Kniaz.AHP.pdb
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\bin\Debug\GeneralMatrix.dll
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\bin\Debug\nunit.framework.dll
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\bin\Debug\GeneralMatrix.pdb
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\obj\Debug\ResolveAssemblyReference.cache
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\obj\Debug\Net.Kniaz.AHP.dll
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\obj\Debug\Net.Kniaz.AHP.pdb

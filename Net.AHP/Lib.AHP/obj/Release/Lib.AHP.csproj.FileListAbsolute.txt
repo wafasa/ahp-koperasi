@@ -1,0 +1,16 @@
+A:\Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\bin\Release\Lib.AHP.dll
+A:\Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\bin\Release\Lib.AHP.pdb
+A:\Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\bin\Release\GeneralMatrix.dll
+A:\Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\bin\Release\nunit.framework.dll
+A:\Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\bin\Release\GeneralMatrix.pdb
+A:\Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\obj\Release\ResolveAssemblyReference.cache
+A:\Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\obj\Release\Lib.AHP.dll
+A:\Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\obj\Release\Lib.AHP.pdb
+E:\Skripsi\Debbie\_APP_Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\bin\Release\Lib.AHP.dll
+E:\Skripsi\Debbie\_APP_Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\bin\Release\Lib.AHP.pdb
+E:\Skripsi\Debbie\_APP_Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\bin\Release\GeneralMatrix.dll
+E:\Skripsi\Debbie\_APP_Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\bin\Release\nunit.framework.dll
+E:\Skripsi\Debbie\_APP_Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\bin\Release\GeneralMatrix.pdb
+E:\Skripsi\Debbie\_APP_Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\obj\Release\ResolveAssemblyReference.cache
+E:\Skripsi\Debbie\_APP_Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\obj\Release\Lib.AHP.dll
+E:\Skripsi\Debbie\_APP_Debbie_AHP\trunk\Net.Kniaz\Lib.AHP\obj\Release\Lib.AHP.pdb

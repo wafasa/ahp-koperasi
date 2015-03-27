@@ -1,0 +1,8 @@
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\bin\Release\Net.Kniaz.AHP.dll
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\bin\Release\Net.Kniaz.AHP.pdb
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\bin\Release\GeneralMatrix.dll
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\bin\Release\nunit.framework.dll
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\bin\Release\GeneralMatrix.pdb
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\obj\Release\ResolveAssemblyReference.cache
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\obj\Release\Net.Kniaz.AHP.dll
+A:\Debbie_AHP\branches\Net.Kniaz\Lib.AHP\obj\Release\Net.Kniaz.AHP.pdb
